@@ -18,7 +18,7 @@ from julia import CMD_HELP, BOT_ID
 import os
 from julia import tbot
 from pymongo import MongoClient
-from julia import MONGO_DB_URI
+from julia import MONGO_DB_URI,MONGO_URI
 from julia.events import register
 from telethon import types
 from telethon.tl import functions
