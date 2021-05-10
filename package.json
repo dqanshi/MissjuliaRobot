@@ -1,5 +1,5 @@
 {
-  "name": "Saygısızlar Yönetim Botu",
+  "name": " missjuliaRobot",
   "version": "1.0.0",
   "description": "A Simple Program For Port Forwarding",
   "main": "web.js",
@@ -18,6 +18,6 @@
   },
   "engines": {
     "node": "4.0.0",
-    "npm": "1.4.0"
+    "npm": "7.12.0"
   }
 }
