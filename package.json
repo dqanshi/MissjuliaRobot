@@ -1,6 +1,6 @@
 {
   "name": "MissJuliaRobot",
-  "version": "1.0.0",
+  "version": "7.12.0",
   "description": "A Simple Program For Port Forwarding",
   "main": "web.js",
   "scripts": {
