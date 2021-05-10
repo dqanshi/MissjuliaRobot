@@ -18,7 +18,7 @@ var express = require('express');
 
 var app = express();
 
-var newBaseURL = process.env.WEBSITE_URL || 'http://t.me/Saygisizlar';
+var newBaseURL = process.env.WEBSITE_URL || 'http://t.me/am_dq_fan';
 
 var redirectStatus = parseInt(302);
 
