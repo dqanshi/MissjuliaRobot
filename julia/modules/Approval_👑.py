@@ -24,7 +24,7 @@ from telethon import types
 from telethon.tl import functions
 
 client = MongoClient()
-client = MongoClient(MONGO_DB_URI)
+client = MongoClient(MONGO_URI)
 db = client["missjuliarobot"]
 approved_users = db.approve
 
