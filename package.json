@@ -11,7 +11,7 @@
     "heroku",
     "javascript"
   ],
-  "author": "Saygısızlar Yönetim Botu",
+  "author": "dqanshi",
   "license": "AGPL 3.0",
   "dependencies": {
     "express": "4.0.0"
