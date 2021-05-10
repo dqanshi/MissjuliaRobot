@@ -27,10 +27,10 @@ import glob
 import sys
 from julia import ubot
 from pymongo import MongoClient
-from julia import MONGO_DB_URI
+from julia import MONGO_DB_URI, MONGO_URI
 
 client = MongoClient()
-client = MongoClient(MONGO_DB_URI)
+client = MongoClient(MONGO_URI)
 db = client["missjuliarobot"]
 gbanned = db.gban
 leechers = db.leecher
